@@ -8,6 +8,5 @@
 </head>
 <body>
     <h1>Deneme Git Push</h1>
-    <h2>2. deneme</h2>
 </body>
 </html>
