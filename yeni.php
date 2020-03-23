@@ -8,5 +8,8 @@
 </head>
 <body>
     <h1>Deneme Git Push</h1>
+    <h6>git push</h6>
+    <h2>git Deneme</h2>
+
 </body>
 </html>
