@@ -5,11 +5,19 @@
 # Toute modification des directives entre ces marqueurs sera outrepassée.
 <IfModule mod_rewrite.c>
 RewriteEngine On
+<<<<<<< HEAD
 RewriteBase /sps/sps/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /sps/sps/index.php [L]
+=======
+RewriteBase /sps/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /sps/index.php [L]
+>>>>>>> 89a7060bd5a7101b1557a4b78245976921f0e4f2
 </IfModule>
 
 # END WordPress
