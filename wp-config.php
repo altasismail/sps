@@ -27,7 +27,7 @@ define( 'DB_USER', 'root' );
 
 /** MySQL database password */
 <<<<<<< HEAD
-define( 'DB_PASSWORD', 'root' );
+define( 'DB_PASSWORD', '' );
 =======
 define( 'DB_PASSWORD', '' );
 >>>>>>> 89a7060bd5a7101b1557a4b78245976921f0e4f2
